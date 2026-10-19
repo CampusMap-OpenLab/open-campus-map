@@ -1,3 +1,7 @@
+"""
+OpenCampus GIS - Campus GeoJSON Network Topology & Dijkstra Graph Pipeline
+Maintained by CampusMap-OpenLab Research Group
+"""
 import json
 import math
 
